@@ -68,5 +68,11 @@ This coursework is designed for you to get a solid understanding of data structu
       <td><a href = "https://github.com/oscar-defelice/coursework/src/topic3_StacksQueues/python/BalancedBrackets.py">BalancedBrackets.py</a></td>
       <td><a href = "https://github.com/oscar-defelice/coursework/src/topic3_StacksQueues/go/BalancedBrackets.go">BalancedBrackets.go</a></td>
     </tr>
+    <tr>
+      <td colspan=2 >Stacks and Queues</td>
+      <td colspan=2 ><a href = "https://www.hackerrank.com/challenges/queue-using-two-stacks/problem" >Queue using two Stacks</a></td>
+      <td><a href = "https://github.com/oscar-defelice/coursework/src/topic3_StacksQueues/python/QueueTwoStacks.py">QueueTwoStacks.py</a></td>
+      <td><a href = "https://github.com/oscar-defelice/coursework/src/topic3_StacksQueues/go/QueueTwoStacks.go">QueueTwoStacks.go</a></td>
+    </tr>
   </tbody>
 </table>
