@@ -77,19 +77,19 @@ This coursework is designed for you to get a solid understanding of data structu
     <tr>
       <td colspan=2 >Hash and Maps</td>
       <td colspan=2 ><a href = "https://www.hackerrank.com/challenges/icecream-parlor/problem" >Ice Cream Parlor</a></td>
-      <td><a href = "https://github.com/oscar-defelice/coursework/src/topic3_StacksQueues/python/IceCreamParlor.py">IceCreamParlor.py</a></td>
+      <td><a href = "https://github.com/oscar-defelice/coursework/src/topic4_HashMaps/python/IceCreamParlor.py">IceCreamParlor.py</a></td>
       <td> - </td>
     </tr>
     <tr>
       <td colspan=2 >Sorting Algorithms</td>
       <td colspan=2 ><a href = "https://www.hackerrank.com/challenges/insertionsort2/problem" >Insertion Sort</a></td>
-      <td><a href = "https://github.com/oscar-defelice/coursework/src/topic3_StacksQueues/python/InsertionSort.py">InsertionSort.py</a></td>
+      <td><a href = "https://github.com/oscar-defelice/coursework/src/topic5_SortingAlgorithms/python/InsertionSort.py">InsertionSort.py</a></td>
       <td> - </td>
     </tr>
     <tr>
       <td colspan=2 >Sorting Algorithms</td>
       <td colspan=2 ><a href = "https://www.hackerrank.com/challenges/quicksort2/problem" >Quick Sort</a></td>
-      <td><a href = "https://github.com/oscar-defelice/coursework/src/topic3_StacksQueues/python/QuickSort.py">QuickSort.py</a></td>
+      <td><a href = "https://github.com/oscar-defelice/coursework/src/topic5_SortingAlgorithms/python/QuickSort.py">QuickSort.py</a></td>
       <td> - </td>
     </tr>
   </tbody>
