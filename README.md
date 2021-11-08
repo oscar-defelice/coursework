@@ -90,7 +90,7 @@ This coursework is designed for you to get a solid understanding of data structu
       <td colspan=2 >Sorting Algorithms</td>
       <td colspan=2 ><a href = "https://www.hackerrank.com/challenges/quicksort2/problem" >Quick Sort</a></td>
       <td><a href = "https://github.com/oscar-defelice/coursework/blob/main/src/topic5_SortingAlgorithms/python/QuickSort.py">QuickSort.py</a></td>
-      <td> - </td>
+      <td><a href = "https://github.com/oscar-defelice/coursework/blob/main/src/topic5_SortingAlgorithms/go/QuickSort.go">QuickSort.go</a></td>
     </tr>
   </tbody>
 </table>
