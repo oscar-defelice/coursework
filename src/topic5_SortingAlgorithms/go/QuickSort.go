@@ -33,7 +33,7 @@ func QuickSort(arr []int) (result []int) {
   return result
 }
 
-func main()  {
+func main() {
   fmt.Println("\n--- Unsorted --- \n\n", slice)
   fmt.Println("\n--- Sorted --- \n\n", QuickSort(slice))
 }
