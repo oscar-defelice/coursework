@@ -84,7 +84,7 @@ This coursework is designed for you to get a solid understanding of data structu
       <td colspan=2 >Sorting Algorithms</td>
       <td colspan=2 ><a href = "https://www.hackerrank.com/challenges/insertionsort2/problem" >Insertion Sort</a></td>
       <td><a href = "https://github.com/oscar-defelice/coursework/blob/main/src/topic5_SortingAlgorithms/python/InsertionSort.py">InsertionSort.py</a></td>
-      <td> - </td>
+      <td><a href = "https://github.com/oscar-defelice/coursework/blob/main/src/topic5_SortingAlgorithms/go/InsertionSort.go">InsertionSort.go</a></td>
     </tr>
     <tr>
       <td colspan=2 >Sorting Algorithms</td>
