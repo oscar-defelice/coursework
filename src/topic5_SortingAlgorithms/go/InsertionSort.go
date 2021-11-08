@@ -1,4 +1,4 @@
-// QuickSort.go
+// InsertionSort.go
 // description: Implementation of in-place insertion sort algorithm
 // details:
 // A simple in-place insertion sort algorithm implementation. [Wikipedia](https://en.wikipedia.org/wiki/Insertionsort)
