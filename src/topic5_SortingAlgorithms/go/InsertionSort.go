@@ -1,7 +1,7 @@
 // QuickSort.go
 // description: Implementation of in-place quicksort algorithm
 // details:
-// A simple in-place insertion sort algorithm implementation. [Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
+// A simple in-place insertion sort algorithm implementation. [Wikipedia](https://en.wikipedia.org/wiki/Insertionsort)
 // author [Oscar de Felice](https://github.com/oscar-defelice)
 
 package main
