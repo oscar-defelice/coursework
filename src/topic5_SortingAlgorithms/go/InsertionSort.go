@@ -11,7 +11,7 @@ import (
 )
 
 // InsertionSort sorts the entire array
-func InsertionSort(arr []int) (result []int) {
+func InsertionSort(arr []int) []int {
   for i := 1; i < len(arr); i++ {
 		temporary := arr[i]
     j := i
